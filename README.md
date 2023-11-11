@@ -8,24 +8,24 @@ Welcome to the **LeetCode** repository! This collection focuses on problems rela
 
 ### Matrices
 
-1. **[Matrix Rotation](./topics/matrices/MatrixRotation.pas):**
+1. **Matrix Rotation:**
    Rotate a given matrix 90 degrees clockwise.
 
-2. **[Matrix Transpose](./topics/matrices/MatrixTranspose.pas):**
+2. **Matrix Transpose:**
    Find the transpose of a given matrix.
 
-3. **[Spiral Order Matrix](./topics/matrices/SpiralOrderMatrix.pas):**
+3. **Spiral Order Matrix:**
    Traverse a matrix in a spiral order.
 
 ### Strings
 
-1. **[Reverse String](./topics/strings/ReverseString.pas):**
+1. **Reverse String:**
    Reverse a given string.
 
-2. **[Anagram Check](./topics/strings/AnagramCheck.pas):**
+2. **Anagram Check:**
    Determine if two strings are anagrams.
 
-3. **[Longest Substring Without Repeating Characters](./topics/strings/LongestSubstringWithoutRepeating.pas):**
+3. **Longest Substring Without Repeating Characters:**
    Find the length of the longest substring without repeating characters.
 
 ## Getting Started
