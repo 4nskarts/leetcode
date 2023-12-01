@@ -32,7 +32,7 @@ Welcome to the **LeetCode** repository! This collection focuses on problems rela
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/leetcode.git
+   git clone https://github.com/4nskarts/leetcode.git
    ```
 
 2. **Navigate to the "topics" Directory:**
